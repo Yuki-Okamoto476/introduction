@@ -6,9 +6,9 @@
 |住所|東京都|
 |年齢|24歳（1999.1.8生まれ）|
 |ポジション|フロントエンドエンジニア、バックエンドエンジニア|
-|エンジニア歴|2年（3年目）|
+|エンジニア歴|2年半（3年目）|
 |Zenn|https://zenn.dev/felipe|
-|Twitter|https://twitter.com/nuxt_hogehoge|
+|Twitter|https://twitter.com/okamoto_uuid|
 |Speaker Deck|https://speakerdeck.com/yuki_okamoto476|
 |TOEIC|860点|
 |出身大学・学部|同志社大学 法学部
