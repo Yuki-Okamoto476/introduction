@@ -22,6 +22,8 @@ NestJS | TypeScript | PostgreSQL | Jest | GraphQL | Apollo Server | GitHub Actio
 ### インフラ
 GCP | Terraform
 
+
+## 経験の概要
 ### フロントエンド
 React、Vue（2系）ともに経験あり。要件定義、基本設計、詳細設計、開発、テスト、コードレビューの経験あり。
 
