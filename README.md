@@ -20,7 +20,7 @@ React | Next.js | TypeScript | Nuxt.js | JavaScript | Jest | React Testing Libra
 ### バックエンド
 NestJS | TypeScript | PostgreSQL | Jest | GraphQL | Apollo Server | GitHub Actions
 ### インフラ
-GCP | Terraform
+GCP | Terraform | Datadog
 
 ## 経験の概要
 ### フロントエンド
@@ -30,7 +30,7 @@ React、Vue（2系）ともに経験あり。要件定義、基本設計、詳�
 NestJSで開発経験あり。要件定義、DB設計、API設計、基本設計、詳細設計、開発、テスト、コードレビューの経験あり。
 
 ### インフラ
-GCPの様々なマネージドサービス使用経験あり。
+GCPの様々なマネージドサービス（App Engine, Cloud Functions, Cloud Scheduler, Cloud Storage, Cloud Run, Cloud Build, Cloud SQL, Cloud Logging, IAM, Load Balancing, Secret Manager, Workflows） 使用経験あり。
 
 ## 業務経歴
 ### レバレジーズ株式会社（2022.12〜現在）
@@ -76,7 +76,8 @@ IP制限機能を新規開発するにあたって以下を主導で行なった
 マイクロサービス配下の新規プロダクト開発において以下を主導で行なった。
 - BFFの構築
 - GCP・Terraformを用いて開発環境とテスト環境の構築
-- 環境ごとにデプロイするCI/CDパイプラインを整備
+- CI/CDパイプラインの整備
+- エラーログのslackへの通知
 
 #### 発揮したバリュー4
 ##### 【課題・状況】
