@@ -30,7 +30,7 @@ React、Vue（2系）ともに経験あり。要件定義、基本設計、詳�
 NestJSで開発経験あり。要件定義、DB設計、API設計、基本設計、詳細設計、開発、テスト、コードレビューの経験あり。
 
 ### インフラ
-GCPの様々なマネージドサービス（App Engine, Cloud Functions, Cloud Scheduler, Cloud Storage, Cloud Run, Cloud Build, Cloud SQL, Cloud Logging, IAM, Load Balancing, Secret Manager, Workflows） 使用経験あり。
+GCPの様々なマネージドサービス（App Engine, Cloud Functions, Cloud Scheduler, Cloud Storage, Cloud Run, Cloud Build, Cloud SQL, Cloud Logging, IAM, Load Balancing, Pub/Sub, Secret Manager, Workflows） 使用経験あり。
 
 ## 業務経歴
 ### レバレジーズ株式会社（2022.12〜現在）
@@ -47,7 +47,7 @@ GCPの様々なマネージドサービス（App Engine, Cloud Functions, Cloud 
 チームのマネジメント（最大で4人のメンバーをマネジメント）、プロジェクトの管理、要件定義、設計、開発、テスト、コードレビュー、本番デプロイ。<br>
 サービス共通の基盤チームのリーダー時には共通基盤という性質上、他プロダクトの影響範囲調査、他チームとのコミュニケーション、タスク依頼、スケジュールの調整を行っていた。<br>
 開発はフロントエンド、バックエンド両方担当。<br>
-インフラはたまに触る程度だが0からサービスを構築した経験あり。
+インフラはTerraformの改修、構築の経験あり。
 
 #### 使用技術
 React | Next.js | TypeScript | NestJS | GraphQL | Terraform | GCP
