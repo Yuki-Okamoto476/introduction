@@ -8,7 +8,7 @@
 | 住所           | 東京都                                                                                       |
 | 年齢           | 25 歳（1999.1.8 生まれ）                                                                     |
 | ポジション     | フロントエンドエンジニア、バックエンドエンジニア、インフラ を幅広く                          |
-| エンジニア歴   | 2 年半（3 年目）                                                                             |
+| エンジニア歴   | 3年（4 年目）                                                                             |
 | Zenn           | https://zenn.dev/felipe                                                                      |
 | Speaker Deck   | https://speakerdeck.com/yuki_okamoto476                                                      |
 | TOEIC          | 860 点                                                                                       |
