@@ -91,14 +91,12 @@ React | Next.js | TypeScript | NestJS | GraphQL | Terraform | Google Cloud
   - Slack App の作成
   - Slack App と連携する際の認証周りの実装
   - Cloud KMS を用いたアクセストークンの暗号化
-  - 通知機能を担っていたマイクロサービスの設計・開発
+  - Slack APIを用いた通知の設計・実装
+    - 工夫した点；数千人ほどのSlackユーザーに予約通知を送る際にSlack APIが提供する予約通知用のAPIではrate limitが厳しくタイムアウトになってしまうので、Cloud Tasksとrate limitがゆるい即時通知用のAPIを組み合わせて時間差で通知するような設計にすることで大量のユーザーに対しても通知を送れるようにした。
   - DB 設計・作成
   - API 設計・開発
   - 上記開発に伴う Terraform の作成・修正
 
-##### 【結果】
-
-2 ヶ月で企画〜リリースまで完了することができた。
 
 #### 発揮したバリュー 2
 
