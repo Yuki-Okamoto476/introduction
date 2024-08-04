@@ -8,7 +8,7 @@
 | 住所           | 東京都                                                                                       |
 | 年齢           | 25 歳（1999.1.8 生まれ）                                                                     |
 | ポジション     | フロントエンドエンジニア、バックエンドエンジニア、インフラ を幅広く                          |
-| エンジニア歴   | 3年（4 年目）                                                                             |
+| エンジニア歴   | 3 年（4 年目）                                                                               |
 | Zenn           | https://zenn.dev/felipe                                                                      |
 | Speaker Deck   | https://speakerdeck.com/yuki_okamoto476                                                      |
 | TOEIC          | 860 点                                                                                       |
@@ -19,36 +19,36 @@
 
 ### フロントエンド
 
-| 言語・ツール | 経験年数 |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| JavaScript | 3年 |
-| TypeScript | 1.5年 |
-| React（Next.js）| 1.5年 |
-| Vue（Nuxt.js）| 1.3年 |
-| GraphQL | 1.5年 |
-| Jest, React Testing Library, Playwright | 1.5年 |
-| Storybook | 3年 | 
-
+| 言語・ツール                            | 経験年数 |
+| --------------------------------------- | -------- |
+| JavaScript                              | 3 年     |
+| TypeScript                              | 1.5 年   |
+| React（Next.js）                        | 1.5 年   |
+| Vue（Nuxt.js）                          | 1.3 年   |
+| GraphQL                                 | 1.5 年   |
+| Jest, React Testing Library, Playwright | 1.5 年   |
+| Storybook                               | 3 年     |
 
 ### バックエンド
 
-| 言語・ツール | 経験年数 |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| TypeScript | 1.5年 |
-| NestJS | 1.5年 |
-| PostgreSQL | 1.5年 |
-| Jest | 1.5年 |
-| GraphQL | 1.5年 |
-| GitHub Actions | 1.5年 |
+| 言語・ツール   | 経験年数 |
+| -------------- | -------- |
+| TypeScript     | 1.5 年   |
+| NestJS         | 1.5 年   |
+| PostgreSQL     | 1.5 年   |
+| Jest           | 1.5 年   |
+| GraphQL        | 1.5 年   |
+| GitHub Actions | 1.5 年   |
 
 ### インフラ
 
 | 言語・ツール | 経験年数 |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| Google Cloud | 1年 |
-| Terraform | 1年 |
+| ------------ | -------- |
+| Google Cloud | 1 年     |
+| Terraform    | 1 年     |
 
-#### Google Cloudで使用経験のあるマネージドサービス
+#### Google Cloud で使用経験のあるマネージドサービス
+
 Compute Engine, Cloud Build, Cloud Functions, Cloud KMS, Cloud Scheduler, Cloud Storage, Cloud Run, Cloud Pub/Sub Cloud SQL, Cloud Logging, Cloud Tasks, IAM, Load Balancing, Secret Manager, Workflows
 
 ## 経験の概要
@@ -63,7 +63,7 @@ Compute Engine, Cloud Build, Cloud Functions, Cloud KMS, Cloud Scheduler, Cloud 
 
 ### インフラ
 
-クラウドとIaCを用いたマネージドサービスの使用やインフラの構築経験あり。
+クラウドと IaC を用いたマネージドサービスの使用やインフラの構築経験あり。
 
 ### 企画
 
@@ -71,7 +71,7 @@ Compute Engine, Cloud Build, Cloud Functions, Cloud KMS, Cloud Scheduler, Cloud 
 
 ### マネジメント
 
-4人の開発チームリーダーとしてマネジメント経験あり。
+4 人の開発チームリーダーとしてマネジメント経験あり。
 
 ## 業務経歴
 
@@ -121,13 +121,17 @@ React | Next.js | TypeScript | NestJS | GraphQL | Terraform | Google Cloud
   - Slack App の作成
   - Slack App と連携する際の認証周りの実装
   - Cloud KMS を用いたアクセストークンの暗号化
-  - Slack APIを用いた通知の設計・実装
-    - 工夫した点；数千人ほどのSlackユーザーに予約通知を送る際にSlack APIが提供する予約通知用のAPIではrate limitが厳しくタイムアウトになってしまうので、Cloud Tasksとrate limitがゆるい即時通知用のAPIを組み合わせて時間差で通知するような設計にすることで大量のユーザーに対しても通知を送れるようにした。
+  - Slack API を用いた通知の設計・実装
+    - 工夫した点；数千人ほどの Slack ユーザーに予約通知を送る際に Slack API が提供する予約通知用の API では rate limit が厳しくタイムアウトになってしまうので、Cloud Tasks と rate limit がゆるい即時通知用の API を組み合わせて時間差で通知するような設計にすることで大量のユーザーに対しても通知を送れるようにした。
   - DB 設計・作成
   - API 設計・開発
   - 上記開発に伴う Terraform の作成・修正
-- 【リリース】開発完了後に他チームやビジネス側とのリリースのスケジュール調整や本番リリース、リリース後の不具合対応を1人称で実行。
+- 【リリース】開発完了後に他チームやビジネス側とのリリースのスケジュール調整や本番リリース、リリース後の不具合対応を 1 人称で実行。
 
+##### 【結果】
+社内での結果
+- 回答率の上昇（90%→92%）
+- マネージャー層が未回答者に人力でリマインドしていたものが自動でリマインドされるようになり工数削減
 
 #### 発揮したバリュー 2
 
