@@ -279,7 +279,7 @@ React | Next.js | TypeScript | NestJS | GraphQL | Terraform | Google Cloud
 - エラーログの Slack への通知
 - Compute Engine の高可用性対応
 
-#### 発揮したバリュー 7
+#### 発揮したバリュー 8
 
 ##### 【課題・状況】
 
